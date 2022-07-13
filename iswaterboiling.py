@@ -11,5 +11,3 @@ def repeat():
          exit() #exit the program
 
 repeat()
-
-# Please support me on Patreon: patreon.com/pizzavitditt
